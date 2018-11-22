@@ -1,4 +1,4 @@
-# Django sinatra practice
+# Django practice
 
 ## Purpose
 
